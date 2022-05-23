@@ -9,7 +9,7 @@ This is the **Deep Learning** part of the Unsupervised Learning Course of the Ma
 - Artificial neural networks
 - Train, validate and test a deep learning model
 - Convolutional neural networks
-- Brief remarks on unsupervised models
+- Elementary aspects of unsupervised deep learning models
 
 **Second Part**
 
