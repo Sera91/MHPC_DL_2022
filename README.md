@@ -1,8 +1,6 @@
 # Deep Learning
 
-This is the first part of the Deep Learning Course for the Master in High-Performance Computing (SISSA/ICTP):
-
-**Introduction to Neural Networks**.
+This is the **Deep Learning** part of the Unsupervised Learning Course of the Master in High-Performance Computing (SISSA/ICTP)
 
 ### Main Topics
 
@@ -19,8 +17,8 @@ TO APPEAR
 
 # Teachers
 
-- Alessio Ansuini
-- Alberto Cazzaniga
+- Alessio Ansuini (First Part)
+- Alberto Cazzaniga (Second Part)
 
 Institute: Research and Technology Institute, AREA Science Park)
 
