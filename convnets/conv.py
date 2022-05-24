@@ -77,8 +77,8 @@ def main():
     parser.add_argument('--log-interval', type=int, default=10, metavar='N',
                         help='how many batches to wait before logging training status')
     
-    parser.add_argument('--save-model', action='store_true', default=False,
-                        help='For Saving the current Model (default=False)')
+    parser.add_argument('--save-model', type=int, default=0,
+                        help='For Saving the current Model ( 0 (No) - 1 (Yes))')
     args = parser.parse_args()
     use_cuda = not args.no_cuda and torch.cuda.is_available()
 
