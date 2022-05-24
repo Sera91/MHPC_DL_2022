@@ -22,6 +22,7 @@ TO APPEAR
 
 Institute: Research and Technology Institute, AREA Science Park)
 
+*Notebooks of the First Part are gently made available by Marco Zullich (PhD student in Industrial and Information Engineering at University of Trieste)*
 
 # Detailed Syllabus of the First Part
 
